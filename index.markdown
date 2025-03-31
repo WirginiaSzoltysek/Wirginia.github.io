@@ -58,6 +58,9 @@ description: "Exploring drug-related crimes using Bokeh, Matplotlib, and interac
 
 </style>
 
+<head>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.2.min.js"></script>
+</head>
 ---
 <figure>
   <img src="{{ site.baseurl }}/assets/drugs.png" alt="Drug Crimes Over the Years">
