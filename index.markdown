@@ -115,7 +115,7 @@ The interactive map below represents crime data collected across San Francisco. 
 ##  **Drug crimes over years**
 
 <figure>
-  <iframe src="{{ site.baseurl }}/assets/bokeh_districts.html"></iframe>
+    <iframe src="{{ site.url }}/assets/bokeh_districts.html" width="100%" height="700px"></iframe>
   <figcaption>Interactive chart- Crimes over years by District</figcaption>
 </figure>
 
